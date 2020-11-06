@@ -1,0 +1,47 @@
+
+/* mobile navbar sidebar under lg breakpoint */
+
+
+html,body{
+    height: 100%;
+}
+*{
+    margin: 0px;
+}
+.card-img{
+    opacity: 0.5;
+}
+.card-title{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+.card-text{
+    font-size: 18px;
+    padding-top: 25px;
+    font-weight: 400px;
+}
+
+.indexline{
+    border-color:blueviolet;
+    width: 25%;
+     margin: auto; 
+     margin-top: 10px; 
+     height: 45px;
+}
+
+
+.row p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+.row{
+    text-align: center;
+    margin-bottom:3px ;
+}
